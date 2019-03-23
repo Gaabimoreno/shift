@@ -3,6 +3,5 @@ Primeira linha do arquivo 1
 
 mod1
 mod3
-mod4 ----
-mod5 ----
+
 mod6
